@@ -1,5 +1,5 @@
 # ConDelta-models
-A repository for ConDelta models I have created to use in ComfyUI with [envy-ai's ComfyUI ConDelta custom node extension](https://github.com/envy-ai/ComfyUI-ConDelta).
+A repository for ConDelta models I have created to use in ComfyUI with [envy-ai's ConDelta custom node extension](https://github.com/envy-ai/ComfyUI-ConDelta).
 
 ## Installation:
 Place files in your ConDelta folder `...ComfyUI/models/ConDelta`
